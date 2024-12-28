@@ -85,13 +85,3 @@ h1 {
     max-height: 10000px;
     padding: 10px;
 }
-
-@media (max-width: 600px) {
-    h1 {
-        font-size: 20px;
-    }
-    .button, .link-button {
-        font-size: 14px;
-        padding: 10px;
-    }
-}
